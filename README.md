@@ -1,2 +1,2 @@
-# JzKUO.github.io
+# jzkuo.github.io
 My Github Websites
